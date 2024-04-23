@@ -1,0 +1,13 @@
+fastapi==0.95.1
+pydantic==1.10.2
+requests==2.27.1
+SQLAlchemy==1.4.47
+toml==0.10.2
+uvicorn==0.18.2
+PyMySQL==1.0.2
+httpx
+beautifulsoup4
+pandas
+pycryptodome
+lxml==4.8.0
+openpyxl
